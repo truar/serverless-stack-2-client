@@ -8,7 +8,7 @@ const dev = {
     URL: "https://ks7pb91rtb.execute-api.us-east-1.amazonaws.com/dev"
   },
   cognito: {
-    REGION: "us-eat-1",
+    REGION: "us-east-1",
     USER_POOL_ID: "us-east-1_Y76rLiuQG",
     APP_CLIENT_ID: "6kv0ila1qvmnauhkjj7an1tor",
     IDENTITY_POOL_ID: "us-east-1:e2126f2b-9ac0-433c-af00-8291f7ae7b8f"
